@@ -19,6 +19,18 @@ Welcome to my **AWS Cloud & DevOps Certification Notes** repository! 🎯 This r
 
 🌟 **Star this repo** if it helps you! Happy Learning! 🚀  
 
+## 🚀 Disclaimer & Contribution  
+
+The content in this repository is based on my **best knowledge, personal experience, and research** from various sources like **Google, Udemy, YouTube, and other study materials**.  
+
+📩 If you believe any part of this repo includes your work and you’d like to be your name as credited, feel free to **email me at [vineetrana2208@gmail.com](mailto:vineetrana2208@gmail.com)**, and I’ll be happy to add your name as i learnt from and spreading to among others.  
+
+💡 **Contributions are always welcome!** If you find any outdated, incorrect, or missing information, please:  
+1️⃣ **Create an Issue** 🛠️  
+2️⃣ **Start a Discussion** 💬  
+3️⃣ **Reach out to me directly** 📧  
+
+I’ll review and update the repository accordingly to ensure the best learning experience for everyone. 🚀  
 
 
 
