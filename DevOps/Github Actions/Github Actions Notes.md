@@ -73,6 +73,18 @@ Updating the **IP allowlist weekly** can be a hassle! 😓 Manually managing thi
 
 ---
 
+![](Images/media/image1.png){width="6.0in"
+height="4.706944444444445in"}
+
+![](Images/media/image2.png){width="6.0in"
+height="0.9819444444444444in"}
+
+
+
+![](Images/media/image3.png){width="6.0in"
+height="2.598611111111111in"}
+
+
 ## 🐳 Using Args in Docker Actions
 Using **args** in the action metadata file allows you to **pass inputs** as arguments to a **Docker container**. 🚀 Inside the container, these arguments can be accessed as **environment variables**. 🛠️
 
@@ -449,6 +461,124 @@ Include one of these keywords in the commit message or PR title:
 
 ---
 
+![](Images/media/image4.png){width="6.0in"
+height="1.6333333333333333in"}
+
+![](Images/media/image5.png){width="6.0in"
+height="1.2375in"}
+
+![](Images/media/image6.png){width="4.430555555555555in"
+height="2.2416666666666667in"}
+
+New Section 1 Page 2
+
+![](Images/media/image7.png){width="3.6847222222222222in"
+height="1.9611100174978127in"}
+
+![](Images/media/image8.png){width="4.75in"
+height="1.858332239720035in"}
+
+Jobs that run on Windows and macOS runners that GitHub hosts consume
+minutes at 2 and 10 times the rate that jobs on Linux runners consume.
+For example, using 1,000 Windows minutes would consume 2,000 of the
+minutes included in your account. Using 1,000 macOS minutes, would
+consume 10,000 minutes included in your account.
+
+![](Images/media/image9.png){width="5.034722222222222in"
+height="3.6680555555555556in"}
+
+If GitHub Actions services are temporarily unavailable, then a workflow
+run is discarded if it has not been queued within 30 minutes of being
+triggered.
+
+Linux‐ sudo, macos‐ brew, windows‐ choco
+
+New Section 1 Page 3
+
+Larger runners are not eligible for the use of included minutes on
+private repositories. For both private and public repositories, when
+larger runners are in use, they will always be billed at the per‐minute
+rate.
+
+Autoscaling is only available for larger runners with Linux or Windows
+operating systems.
+
+Private networking for GitHub‐hosted runners does not support static IP
+addresses for larger runners.
+
+You can use up to 10 larger runners with static IP address ranges in
+total across all your larger runners.
+
+If runners are unused for more than 30 days, their IP address ranges are
+automatically removed and cannot be recovered.
+
+Larger runners are only available for organizations and enterprises
+using the GitHub Team or GitHub Enterprise Cloud plans.
+
+Enterprise or organization owners can manage larger runners.
+
+A self‐hosted runner is automatically removed from GitHub if it has not
+connected to GitHub Actions for more than 14 days. An ephemeral
+self‐hosted runner is automatically removed from GitHub if it has not
+connected to GitHub Actions for more than 1 day.
+
+Each job in a workflow can run for up to 5 days of execution time. If a
+job reaches this limit, the job is terminated and fails to complete.
+
+You can execute up to 1,000 requests to the GitHub API in an hour across
+all actions within a repository. If requests are exceeded, additional
+API calls will fail which might cause jobs to fail.
+
+You can have a maximum of 10,000 self‐hosted runners in one runner
+group. If this limit is reached, adding a new runner will not be
+possible.
+
+You must ensure that the machine has the appropriate network access with
+at least 70 kilobits per second upload and download speed to communicate
+with the GitHub hosts listed below.
+
+The status can be one of the following:
+
+> • **Idle:** The runner is connected to GitHub and is ready to execute
+> jobs.
+>
+> • **Active:** The runner is currently executing a job.
+>
+> • **Offline:** The runner is not connected to GitHub. This could be
+> because the machine is offline, the self‐hosted runner application is
+> not running on the machine, or the self‐ hosted runner application
+> cannot communicate with GitHub.
+
+In addition to ‐‐check, you must provide two arguments to the script:
+
+> • ‐‐url with the URL to your GitHub repository, organization, or
+> enterprise. For example, ‐‐url
+> [https://github.com/octo‐org/octo‐repo]{.underline}.
+>
+> • ‐‐pat with the value of a personal access token (classic), which
+> must have\
+> the workflow scope, or a fine‐grained personal access token with
+> workflows read and write access.
+
+You can use systemctl to check the service status:
+
+New Section 1 Page 4
+
+Actions Runner Controller (ARC) is a Kubernetes operator that
+orchestrates and scales self‐hosted runners for GitHub Actions.
+
+run: gh issue comment \"\$NUMBER\" ‐‐body \"\$BODY\"
+
+GitHub Actions is available on all GitHub products, but GitHub Actions
+is not available for private repositories owned by accounts using legacy
+per‐repository plans.
+
+![](Images/media/image10.png){width="4.944444444444445in"
+height="1.6361100174978127in"}
+
+![](Images/media/image11.png){width="5.0625in"
+height="1.5902777777777777in"}
+
 # 🚀 GitHub Actions Guide
 
 ## 🔒 Disabling TLS Certification Verification
@@ -514,4 +644,13 @@ GitHub Actions is available on all GitHub products, **except** for private repos
 🎯 **Follow these best practices to optimize your GitHub Actions workflows and automate efficiently!** 🚀💡
 
 
+## 🚀 Follow Me on LinkedIn & My Newsletter!  
+
+Hey there! I'm **Vineet Rana**, a passionate **DevOps Engineer** 💻☁️. Let's connect and grow together!  
+
+🔗 **LinkedIn:** [Vineet Rana](https://www.linkedin.com/in/vineetrana)  
+
+📩 **Subscribe to my Newsletter:** [The DevOps Chronicles](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7276114874349375488)  
+
+🔥 Stay updated with the latest in **DevOps, AWS, and automation!** 🚀  
 
