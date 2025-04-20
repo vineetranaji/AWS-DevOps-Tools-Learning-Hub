@@ -387,8 +387,7 @@ management overhead by handling the underlying infrastructure
 automatically. However, it can potentially incur higher costs during
 peak usage times due to the dynamic scaling.
 
-![](Images/media/image1.png){width="4.5527766841644794in"
-height="1.6777766841644794in"}
+![](Images/media/image1.png)
 
 K‐fold Cross Validation for Overfitting‐‐‐ Split your data into K
 randomly‐assigned segments ◦Reserve one segment as your test data ◦Train
@@ -408,8 +407,7 @@ the "real" answer
 
 > AWS AI Prctitioners Page 4
 
-![](Images/media/image2.png){width="4.556943350831146in"
-height="1.8305555555555555in"}
+![](Images/media/image2.png)
 
 ![](Images/media/image3.png){width="4.549998906386701in"
 height="2.4097222222222223in"}
