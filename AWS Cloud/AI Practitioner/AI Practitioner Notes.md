@@ -409,9 +409,7 @@ the "real" answer
 
 ![](Images/media/image2.png)
 
-![](Images/media/image3.png){width="4.549998906386701in"
-height="2.4097222222222223in"}
-
+![](Images/media/image3.png)
 Self attention‐ 1 word 2 meaning
 
 **Residual Neural Networks** (AKA ResNet) are normally used in **image
@@ -458,44 +456,33 @@ most important information.
 
 > AWS AI Prctitioners Page 5
 
-![](Images/media/image4.png){width="4.549998906386701in"
-height="2.463888888888889in"}
+![](Images/media/image4.png)
 
 Model explainiblity‐ Sagemaker clarify
 
-![](Images/media/image5.png){width="4.549998906386701in"
-height="1.9611100174978127in"}
+![](Images/media/image5.png)
 
-![](Images/media/image6.png){width="3.5888877952755904in"
-height="1.9069444444444446in"}
+![](Images/media/image6.png)
 
-![](Images/media/image7.png){width="2.5972222222222223in"
-height="1.7597222222222222in"}
+![](Images/media/image7.png)
 
 AWS AI Prctitioners Page 6
 
-![](Images/media/image8.png){width="2.8652777777777776in"
-height="1.8777766841644794in"}
+![](Images/media/image8.png)
 
-![](Images/media/image9.png){width="2.595833333333333in"
-height="1.9236100174978128in"}
+![](Images/media/image9.png)
 
-![](Images/media/image10.png){width="2.623611111111111in"
-height="1.845832239720035in"}
+![](Images/media/image10.png)
 
-![](Images/media/image11.png){width="3.1305555555555555in"
-height="1.4208333333333334in"}
+![](Images/media/image11.png)
 
-![](Images/media/image12.png){width="2.5708333333333333in"
-height="1.1541655730533684in"}
+![](Images/media/image12.png)
 
 AWS AI Prctitioners Page 7
 
-![](Images/media/image13.png){width="2.984722222222222in"
-height="1.525in"}
+![](Images/media/image13.png)
 
-![](Images/media/image14.png){width="2.922222222222222in"
-height="1.6194444444444445in"}
+![](Images/media/image14.png)
 
 Deploy multiple models behind a single endpoint\
 ◦SageMaker Inference Pipeline
@@ -513,8 +500,7 @@ Restrict access to intended legitimate consumers\
 Monitor human interactions with data for anomalous activity\
 ◦Logging, GuardDuty, Macie
 
-![](Images/media/image15.png){width="4.549998906386701in"
-height="3.1416666666666666in"}
+![](Images/media/image15.png)
 
 **SageMaker Blue/Green Deployments allow for testing new features
 gradually and safely by routing a portion of traffic to the new version
@@ -525,46 +511,34 @@ rollback capabilities.**
 
 > AWS AI Prctitioners Page 8
 
-![](Images/media/image16.png){width="3.013888888888889in"
-height="2.3055555555555554in"}
-
+![](Images/media/image16.png)
 Guardrail‐ content filtering in gen ai & rollback deployment in
 sagemaker model deployment Shadow stte‐ 2 servers running parallely,
 comparing performance
 
-![](Images/media/image17.png){width="1.1722222222222223in"
-height="1.0833333333333333in"}
+![](Images/media/image17.png)
 
-![](Images/media/image18.png){width="3.855554461942257in"
-height="2.1194433508311463in"}
+![](Images/media/image18.png)
 
-![](Images/media/image19.png){width="3.3986111111111112in"
-height="1.7222222222222223in"}
+![](Images/media/image19.png)
 
-![](Images/media/image20.png){width="3.7069433508311462in"
-height="1.4166666666666667in"}
+![](Images/media/image20.png)
 
 AWS AI Prctitioners Page 9
 
-![](Images/media/image21.png){width="4.058333333333334in"
-height="1.7902777777777779in"}
+![](Images/media/image21.png)
 
-![](Images/media/image22.png){width="4.555555555555555in"
-height="1.898611111111111in"}
+![](Images/media/image22.png)
 
-![](Images/media/image23.png){width="4.555555555555555in"
-height="2.0555555555555554in"}
+![](Images/media/image23.png)
 
-![](Images/media/image24.png){width="4.551388888888889in"
-height="1.8652777777777778in"}
+![](Images/media/image24.png)
 
 AWS AI Prctitioners Page 10
 
-![](Images/media/image25.png){width="4.549998906386701in"
-height="2.248611111111111in"}
+![](Images/media/image25.png)
 
-![](Images/media/image26.png){width="4.5541655730533686in"
-height="2.2875in"}
+![](Images/media/image26.png)
 
 What is the main function of SageMaker Neo? ‐ to optimize the models for
 deployment on edge devices
@@ -623,19 +597,15 @@ Comprehend
 
 > AWS AI Prctitioners Page 11
 
-![](Images/media/image27.png){width="4.036110017497813in"
-height="0.7194444444444444in"}
+![](Images/media/image27.png)
 
 Personalize = recommendation or ranking personalize
 
-![](Images/media/image28.png){width="3.7152777777777777in"
-height="1.7583333333333333in"}
+![](Images/media/image28.png)
 
-![](Images/media/image29.png){width="3.7083333333333335in"
-height="2.334722222222222in"}
+![](Images/media/image29.png)
 
-![](Images/media/image30.png){width="3.5555555555555554in"
-height="2.223610017497813in"}
+![](Images/media/image30.png)
 
 In Bedrock agent, code interpretor , writes its own code.\
 Evaluation of model= benchmark, human, another model\
@@ -656,18 +626,15 @@ Below r for classification\
 Recall‐ sensitivity, fraud detection... \|\
 Precision ‐ relevant, drug detection ‐‐‐
 
-![](Images/media/image31.png){width="2.9819444444444443in"
-height="1.958332239720035in"}
+![](Images/media/image31.png)
 
 ROC cureve, more upper, more good
 
 For regression== rmse, mae, r2
 
-![](Images/media/image32.png){width="3.123611111111111in"
-height="1.3583333333333334in"}
+![](Images/media/image32.png)
 
-![](Images/media/image33.png){width="2.8666666666666667in"
-height="2.048611111111111in"}
+![](Images/media/image33.png)
 
 Shapley‐ one feature contributing how much
 
@@ -677,14 +644,11 @@ Intrepretability = cause
 
 AWS AI Prctitioners Page 13
 
-![](Images/media/image34.png){width="2.8305555555555557in"
-height="2.0125in"}
+![](Images/media/image34.png)
 
-![](Images/media/image35.png){width="2.9194444444444443in"
-height="1.7486111111111111in"}
+![](Images/media/image35.png)
 
-![](Images/media/image36.png){width="2.8402777777777777in"
-height="1.9819433508311461in"}
+![](Images/media/image36.png)
 
 SHAP (SHapley Additive exPlanations) is the technique used by SageMaker
 Clarify to measure the impact of each feature by evaluating the model\'s
@@ -727,8 +691,7 @@ Admin control‐ guardrails for amazon q business
 
 > AWS AI Prctitioners Page 14
 
-![](Images/media/image37.png){width="2.6902777777777778in"
-height="1.2097222222222221in"}
+![](Images/media/image37.png)
 
 Ground ruth for reviewing
 
